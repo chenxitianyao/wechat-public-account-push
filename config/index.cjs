@@ -106,7 +106,7 @@ const USER_CONFIG = {
 
      name: '偷懒的小蜜蜂',
 
-     id: 'osZhI67GIj0AsmiruHSP_-MTjJOk'
+     id: 'osZhI67GIj0AsmiruHSP_-MTjJOk',
       useTemplateId: 'yzErBQMGfcimGfXxlIJiCsUEhw8YdEase4bxgXOyG4',
 
     province: '河北',   

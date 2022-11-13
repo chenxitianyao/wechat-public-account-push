@@ -102,45 +102,45 @@ const USER_CONFIG = {
     },
   
 
-   {
+   //{
 
-     name: '偷懒的小蜜蜂',
+  //   name: '偷懒的小蜜蜂',
 
-     id: 'osZhI67GIj0AsmiruHSP_-MTjJOk',
-      useTemplateId: 'yzErBQMGfcimGfXxlIJiCsUEhw8YdEase4bxgXOyG4w',
+  //   id: 'osZhI67GIj0AsmiruHSP_-MTjJOk',
+  //    useTemplateId: 'yzErBQMGfcimGfXxlIJiCsUEhw8YdEase4bxgXOyG4w',
 
-    province: '河北',   
+  //  province: '河北',   
 
-      city: '石家庄',
+  //    city: '石家庄',
 
-     horoscopeDate: '9-17',
+  //   horoscopeDate: '9-17',
 
-     horoscopeDateType: '今日',
+   //  horoscopeDateType: '今日',
 
-     openUrl: 'https://mp.weixin.qq.com/s?__biz=MzkwMjQwMzY0Mg==&mid=2247483682&idx=1&sn=002e49362ea8432224dd567248eb3045&chksm=c0a74277f7d0cb6192b354626eb1b374c443e112d50cf269ad437c675611e2ef3ea5e107dcd6&token=1205761133&lang=zh_CN#rd',
-      festivals: [  {"type": "*生日", "name": "father", "year": "1956", "date": "08-13"},],
-      customizedDateList: [  {"type": "*生日", "name": "自己", "year": "1992", "date": "7-20"},],
-      courseSchedule: null
-    },
+   //  openUrl: 'https://mp.weixin.qq.com/s?__biz=MzkwMjQwMzY0Mg==&mid=2247483682&idx=1&sn=002e49362ea8432224dd567248eb3045&chksm=c0a74277f7d0cb6192b354626eb1b374c443e112d50cf269ad437c675611e2ef3ea5e107dcd6&token=1205761133&lang=zh_CN#rd',
+  //    festivals: [  {"type": "*生日", "name": "father", "year": "1956", "date": "08-13"},],
+  //    customizedDateList: [  {"type": "*生日", "name": "自己", "year": "1992", "date": "7-20"},],
+  //    courseSchedule: null
+ //   },
       
 
       
 
 
-  {
-  name:'种花家的小户同学',
-     id: 'osZhI67RZUOBwAlJBDl0OAc2yg_c',
-      useTemplateId: 'yzErBQMGfcimGfXxlIJiCsUEhw8YdEase4bxgXOyG4w',
+ // {
+ // name:'种花家的小户同学',
+ //    id: 'osZhI67RZUOBwAlJBDl0OAc2yg_c',
+ //     useTemplateId: 'yzErBQMGfcimGfXxlIJiCsUEhw8YdEase4bxgXOyG4w',
    
-      province: '河北',  
-      city:'衡水',
-     horoscopeDate: '1-5',
-     horoscopeDateType: '今日',
+ //     province: '河北',  
+//      city:'衡水',
+  //   horoscopeDate: '1-5',
+ //    horoscopeDateType: '今日',
      // openUrl: 'https://mp.weixin.qq.com/s?__biz=MzkwMjQwMzY0Mg==&mid=2247483682&idx=1&sn=002e49362ea8432224dd567248eb3045&chksm=c0a74277f7d0cb6192b354626eb1b374c443e112d50cf269ad437c675611e2ef3ea5e107dcd6&token=1205761133&lang=zh_CN#rd',
-      festivals: [  {"type": "*生日", "name": "同学", "year": "1994", "date":"1-5"},],
-      customizedDateList: [  {"type": "*生日", "name": "自己", "year": "1994", "date": "1-5"},],
-      courseSchedule: null
-    },
+   //   festivals: [  {"type": "*生日", "name": "同学", "year": "1994", "date":"1-5"},],
+   //   customizedDateList: [  {"type": "*生日", "name": "自己", "year": "1994", "date": "1-5"},],
+   //   courseSchedule: null
+  //  },
 ],
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板

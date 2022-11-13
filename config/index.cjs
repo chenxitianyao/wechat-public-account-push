@@ -141,7 +141,7 @@ const USER_CONFIG = {
       customizedDateList: [  {"type": "*生日", "name": "自己", "year": "1994", "date": "1-5"},],
       courseSchedule: null
     },
-
+],
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
   CALLBACK_TEMPLATE_ID: 'mPwzpgglbpT0HiwCYat5DrxrMey7NHyXESLo_2XywCY',

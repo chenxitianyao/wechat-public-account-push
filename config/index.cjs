@@ -100,7 +100,7 @@ const USER_CONFIG = {
       customizedDateList: [  {"type": "*生日", "name": "自己", "year": "1992", "date": "7-20"},],
       courseSchedule: null
     },
-  ],
+  
 
    {
 
@@ -122,6 +122,10 @@ const USER_CONFIG = {
       customizedDateList: [  {"type": "*生日", "name": "自己", "year": "1992", "date": "7-20"},],
       courseSchedule: null
     },
+      
+
+      
+
 
   {
   name:'种花家的小户同学',

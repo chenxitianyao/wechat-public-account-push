@@ -129,8 +129,9 @@ const USER_CONFIG = {
 
   {
   name:'种花家的小户同学',
-     id: 'osZhI67RZUOBwAlJBDl0OAc2yg_c'
+     id: 'osZhI67RZUOBwAlJBDl0OAc2yg_c',
       useTemplateId: 'yzErBQMGfcimGfXxlIJiCsUEhw8YdEase4bxgXOyG4w',
+   
       province: '河北',  
       city:'衡水',
      horoscopeDate: '1-5',

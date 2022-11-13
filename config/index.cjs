@@ -135,7 +135,7 @@ const USER_CONFIG = {
       province: '河北',  
       city:'衡水',
      horoscopeDate: '1-5',
-     horoscopeDateType: '今日'
+     horoscopeDateType: '今日',
      // openUrl: 'https://mp.weixin.qq.com/s?__biz=MzkwMjQwMzY0Mg==&mid=2247483682&idx=1&sn=002e49362ea8432224dd567248eb3045&chksm=c0a74277f7d0cb6192b354626eb1b374c443e112d50cf269ad437c675611e2ef3ea5e107dcd6&token=1205761133&lang=zh_CN#rd',
       festivals: [  {"type": "*生日", "name": "同学", "year": "1994", "date":"1-5"},],
       customizedDateList: [  {"type": "*生日", "name": "自己", "year": "1994", "date": "1-5"},],
